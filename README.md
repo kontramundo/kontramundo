@@ -132,13 +132,17 @@
     <img src="https://img.shields.io/badge/oracle-c74634.svg?style=for-the-badge&logo=oracle&logoColor=white"
       alt="oracle"/> 
   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank"> 
+    <img src="https://img.shields.io/badge/indexeddb-000000.svg?style=for-the-badge&logo=files&logoColor=white"
+      alt="indexeddb"/> 
+  </a> 
   <a href="https://www.mongodb.com" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank"> 
-    <img src="https://img.shields.io/badge/indexeddb-000000.svg?style=for-the-badge&logo=files&logoColor=white"
-      alt="indexeddb"/> 
+  <a href="https://prisma.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/prisma-000000.svg?style=for-the-badge&logo=prisma&logoColor=white"
+      alt="prisma"/> 
   </a> 
 </p>
 
