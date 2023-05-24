@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [kontramundo.com](kontramundo.com)
+- 👨‍💻 All of my projects are available at https://kontramundo.com
 
 - 💬 Ask me about **php, laravel, react, graphql, sql**
 
 - 📫 How to reach me **salvador.saji@gmail.com**
 
-- 📄 Know about my experiences [kontramundo.com/cv](kontramundo.com/cv)
+- 📄 Know about my experiences https://kontramundo.com/cv
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
