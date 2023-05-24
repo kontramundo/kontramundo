@@ -107,6 +107,9 @@
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
+  <a href="https:/strapi.io" target="_blank">
+    <img src="https://img.shields.io/badge/strapi-4945ff.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="strapi" />
+  </a>
 </p>
 
 
