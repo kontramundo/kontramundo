@@ -135,6 +135,10 @@
     <img src="https://img.shields.io/badge/oracle-c74634.svg?style=for-the-badge&logo=oracle&logoColor=white"
       alt="oracle"/> 
   </a>
+  <a href="https://sqlite.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-044a64.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
+  </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank"> 
     <img src="https://img.shields.io/badge/indexeddb-000000.svg?style=for-the-badge&logo=files&logoColor=white"
       alt="indexeddb"/> 
