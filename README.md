@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salvador <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
-<h3 align="center">Web developer with more than 12 years of experience in the industry. I specialize in web programming and I have experience in both frontend and backend, handling various technologies, databases, servers and many other tools.</h3>
+<h3 align="center">Software engineer with over 13 years of experience in developing scalable applications and solutions. Specialist in integrating artificial intelligence to optimize processes. Expert in full-stack web development, database management, server administration, and implementing AI models within efficient workflows.</h3>
 
 - 🔭 I’m currently working on American Institutes for Research 
 
