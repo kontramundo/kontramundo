@@ -195,9 +195,14 @@
 
 <h3 align="center">IA</h3>
 <p align="center">
-  <a href="https://git-scm.com/](https://ollama.com" target="_blank">
+  <a href="https://ollama.com" target="_blank">
     <img src="https://img.shields.io/badge/ollama-FFFFFF.svg?style=for-the-badge&logo=ollama&logoColor=black"
       alt="ollama"/>
+  </a>
+
+  <a href="https://www.langchain.com" target="_blank">
+    <img src="https://img.shields.io/badge/langchain-FFFFFF.svg?style=for-the-badge&logo=langchain&logoColor=black"
+      alt="langchain"/>
   </a>
 </p>
 
