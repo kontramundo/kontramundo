@@ -196,7 +196,7 @@
 <h3 align="center">IA</h3>
 <p align="center">
   <a href="https://git-scm.com/](https://ollama.com" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=black"
+    <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=black"
       alt="ollama"/>
   </a>
 </p>
