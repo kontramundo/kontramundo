@@ -96,6 +96,9 @@
     <img src="https://img.shields.io/badge/python-2b5b84.svg?style=for-the-badge&logo=python&logoColor=white"
       alt="python"/> 
   </a>
+  <a href="https://flask.palletsprojects.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/flask-61DAFB.svg?style=for-the-badge&logo=flask&logoColor=black"
+      alt="flask"/> 
   <a href="https://djangoproject.com" target="_blank"> 
     <img src="https://img.shields.io/badge/django-44B78B.svg?style=for-the-badge&logo=django&logoColor=white"
       alt="django"/> 
